@@ -8008,15 +8008,19 @@
       "indent": 0,
       "location": "pages/item-fa1e3b35-ba59-4c1f-be91-1fa7c58f927a/index.html",
       "slug": "page-2",
-      "order": 1,
+      "order": 2,
       "parent": null,
       "title": "Page",
-      "description": "",
+      "description": "\n\n\n",
       "metadata": {
         "created": 1723081985,
-        "updated": 1723081985,
-        "images": [],
-        "videos": []
+        "updated": 1723082039,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
