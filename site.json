@@ -6310,21 +6310,19 @@
     },
     {
       "id": "item-15525242-f6e9-4201-bbb1-cdd8f29176f6",
-      "indent": "1",
+      "indent": 0,
       "location": "pages/item-15525242-f6e9-4201-bbb1-cdd8f29176f6/index.html",
       "slug": "site-things/header",
-      "order": 48,
+      "order": 2,
       "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
       "title": "Header",
-      "description": "",
+      "description": "\n&#160;\n\n  \n    \n  \n\n",
       "metadata": {
-        "locked": "",
+        "locked": false,
         "created": 1723079701,
-        "images": [
-          "files/hax.png"
-        ],
-        "videos": [],
-        "updated": 1723079701,
+        "images": {},
+        "videos": {},
+        "updated": 1723082222,
         "files": [
           {
             "fullUrl": "/bto108/sites/haxcellence/files/psu-mark.png",
@@ -6348,9 +6346,9 @@
             "size": "343118"
           }
         ],
-        "published": "1",
-        "hideInMenu": "",
-        "readtime": "1",
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1,
         "status": ""
       }
     },
