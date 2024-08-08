@@ -6313,7 +6313,7 @@
       "indent": 0,
       "location": "pages/item-15525242-f6e9-4201-bbb1-cdd8f29176f6/index.html",
       "slug": "site-things/header",
-      "order": 1,
+      "order": 0,
       "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
       "title": "Header",
       "description": "\n \n\n  \n    \n  \n\n",
@@ -6322,7 +6322,7 @@
         "created": 1723079701,
         "images": {},
         "videos": {},
-        "updated": 1723082312,
+        "updated": 1723082348,
         "files": [
           {
             "fullUrl": "/bto108/sites/haxcellence/files/psu-mark.png",
@@ -6347,7 +6347,7 @@
           }
         ],
         "published": true,
-        "hideInMenu": true,
+        "hideInMenu": false,
         "readtime": 1,
         "status": ""
       }
